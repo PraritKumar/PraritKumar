@@ -39,6 +39,15 @@ I'm a Software Engineer with **4 years of experience** building scalable backend
 
 ---
 
+## 🔨 Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [**Task Manager API**](https://github.com/PraritKumar/task-manager) | Java 21 · Spring Boot · PostgreSQL · Docker · Kubernetes | REST API · JPA · JUnit 5 · Swagger UI · Multi-stage Docker build |
+| [**Redis Rate Limiter**](https://github.com/PraritKumar/redis-rate-limiter) | Java 21 · Spring Boot · Redis · AOP | Sliding Window algorithm · Distributed rate limiting · Custom annotations |
+
+---
+
 ## 💼 What I've Built
 
 - 🏛️ **National Tax Ingestion System** — Migrated a legacy file-based system to a low-latency SOA using Java 21 + Spring Boot, engineered for **8M+ concurrent users**. Cut bulk processing time by **60–70%** via JVM-level multithreading.
